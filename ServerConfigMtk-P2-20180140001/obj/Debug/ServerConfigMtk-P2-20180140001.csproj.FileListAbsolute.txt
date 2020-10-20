@@ -1,0 +1,11 @@
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\bin\Debug\ServerConfigMtk-P2-20180140001.exe.config
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\bin\Debug\ServerConfigMtk-P2-20180140001.exe
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\bin\Debug\ServerConfigMtk-P2-20180140001.pdb
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\bin\Debug\ServiceMtk-P1-20180140001.dll
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\bin\Debug\ServiceMtk-P1-20180140001.pdb
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\bin\Debug\ServiceMtk-P1-20180140001.dll.config
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\obj\Debug\ServerConfigMtk-P2-20180140001.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\obj\Debug\ServerConfigMtk-P2-20180140001.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\obj\Debug\ServerConfigMtk-P2-20180140001.csproj.CopyComplete
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\obj\Debug\ServerConfigMtk-P2-20180140001.exe
+C:\Users\yusuf\source\repos\ServerConfigMtk-P2-20180140001\ServerConfigMtk-P2-20180140001\obj\Debug\ServerConfigMtk-P2-20180140001.pdb
